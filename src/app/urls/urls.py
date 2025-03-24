@@ -1,6 +1,4 @@
-from typing import List
-
-from fastapi import APIRouter, Request, HTTPException, Response
+from fastapi import APIRouter, Request, HTTPException
 from starlette.responses import JSONResponse
 
 

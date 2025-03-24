@@ -13,5 +13,3 @@ COPY run.py ./
 COPY src ./src
 
 CMD ["python", "-u", "run.py"]
-
-EXPOSE 5034
