@@ -1,0 +1,14 @@
+pydantic
+fastapi
+starlette
+requests
+uvicorn
+elastic-apm
+psutil
+loggers[all]
+mongoengine
+elastic-apm
+psutil
+pytest
+httpx
+pytest-asyncio
